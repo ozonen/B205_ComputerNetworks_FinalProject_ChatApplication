@@ -2,7 +2,7 @@
 
 
 ####  - Ozgur Onen - GH1044899
-#### - Bora Gurses - GH...
+#### - Bora Gurses - GH1034408
 
 
 ChatApp is a lightweight, real-time group chat application written in
