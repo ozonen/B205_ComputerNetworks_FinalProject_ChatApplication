@@ -2,7 +2,7 @@
 
 
 ####  - Ozgur Onen - GH1044899
-#### - Bora Gurses - GH1034408
+#### - Bora Gürses - GH1034408
 
 
 ChatApp is a lightweight, real-time group chat application written in
@@ -50,7 +50,7 @@ the programs run.
 
 ## Requirements
 
-- **Python 3.8 or newer** (developed and tested on Python 3.14).
+- **Python 3.8 or newer**.
 - No external packages — only the Python standard library
   (`socket`, `threading`, `json`, `argparse`, `logging`).
 
@@ -221,7 +221,7 @@ Both programs log to the console and to a file:
 | Problem                               | Likely cause / fix                                              |
 |---------------------------------------|-----------------------------------------------------------------|
 | Could not connect to ...              | The server is not running, or the host/port is wrong.           |
-| `[Errno 98]/[WinError 10048]` address in use | The port is busy — wait a moment or pick another `--port`.  |
+| `[Errno 98]/[WinError 10048]` address in use | The port is busy — wait a moment or pick another `--port`. |
 |`That username is already taken.       | Choose a different username; names must be unique.              |
 | Client window seems "stuck"           | It is waiting for input — just type a message and press Enter.  |
 
